@@ -1,7 +1,7 @@
 # Hi there, I'm DEVANG 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=DSA+ENTHUSIAST;I LOVE PYHTON;Problem+Solver+by+Nature" alt="Typing Link" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=DSA+ENTHUSIAST;I+LOVE+PYHTON;Problem+Solver+by+Nature" alt="Typing Link" />
 </div>
 
 ---
