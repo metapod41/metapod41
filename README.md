@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 - 🎓 Engineering Student at **Ramaiah Institute of Technology**
-- 🐍 Currently mastering Python and Computer Vision.
+- 🐍 Currently mastering Python and DSA.
 
 ---
 
