@@ -32,11 +32,13 @@
 
 ---
 
+
 ### 🧠 LeetCode Metrics
 <p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=Devang-41&theme=dark" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/u/Devang-41/">
+    <img src="https://leetcard.jacoblin.cool/Devang-41?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
+  </a>
 </p>
-
 ---
 
 ### 🌍 3D Contribution Graph
