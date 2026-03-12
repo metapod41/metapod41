@@ -22,8 +22,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       # 3D Contribution Graph
+      # 3D Contribution Graph
       - name: generate-snake-game-from-github-contribution-grid
-        uses: yoshi382/github-contribution-grid-snake.3d@main
+        uses: yoshi382/github-contribution-grid-snake@main
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
