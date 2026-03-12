@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi there, I'm DEVANG 👋
 
-<!--
-**metapod41/metapod41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Cloud+Computing+Enthusiast;Problem+Solver+by+Nature" alt="Typing Link" />
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎓 Engineering Student at **Ramaiah Institute of Technology**
+
+---
+
+### 🛠️ Skills & Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,css,html,java,django,mongodb,js,cassandra,git,vscode" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Analytics
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=metapod41&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=metapod41&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=metapod41&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=metapod41&repo=KubeSentinel&theme=tokyonight" />
+</p>
+
+---
+
+### 🧠 LeetCode Metrics
+<p align="center">
+  <img src="https://leetcode-stats-six.vercel.app/api?username=Devang-41&theme=dark" alt="LeetCode Stats" />
+</p>
+
+---
+
+### 🌍 3D Contribution Graph
+![GitHub 3D Graph](https://raw.githubusercontent.com/metapod41/metapod41/output/github-contribution-grid-snake-3d.svg)
+
+
+---
+
+### 🐍 Contribution Snake
+![Snake Animation](https://raw.githubusercontent.com/metapod41/metapod41/output/github-contribution-grid-snake.svg)
+
+---
+
+### 🔗 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/devang-bindal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=metapod41&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Counter" />
+</p>
