@@ -41,14 +41,17 @@
 </p>
 ---
 
-### 🌍 3D Contribution Graph
-![GitHub 3D Graph](https://raw.githubusercontent.com/metapod41/metapod41/output/github-contribution-grid-snake-3d.svg)
+
 
 
 ---
 
-### 🐍 Contribution Snake
-![Snake Animation](https://raw.githubusercontent.com/metapod41/metapod41/output/github-contribution-grid-snake.svg)
+### 🐍 Contribution Activity
+<p align="center">
+  <img src="https://raw.githubusercontent.com/metapod41/metapod41/output/github-contribution-grid-snake-3d.svg" alt="Contribution Snake" />
+</p>
+
+---
 
 ---
 
