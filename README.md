@@ -28,7 +28,6 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=metapod41&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=metapod41&repo=KubeSentinel&theme=tokyonight" />
 </p>
 
 ---
