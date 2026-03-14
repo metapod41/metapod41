@@ -15,7 +15,7 @@
 ### 🛠️ Skills & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,css,html,java,django,mongodb,js,cassandra,git,vscode,react,docker" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,css,html,java,django,mongodb,js,cassandra,git,vscode,react" />
   </a>
 </p>
 
