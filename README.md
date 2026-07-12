@@ -21,44 +21,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=metapod41&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    alt="GitHub Stats"
-  />
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=metapod41&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    width="48%"
-    src="https://streak-stats.demolab.com?user=metapod41&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=metapod41&repo=100-days-of-python&theme=tokyonight&hide_border=true"
-    alt="100 Days of Python"
-  />
-</p>
-
-<p align="center">
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=metapod41&repo=OPEN-CV&theme=tokyonight&hide_border=true"
-    alt="OPEN-CV"
-  />
-</p>
-
----
-
 ### 🧠 LeetCode Metrics
 <p align="center">
   <a href="https://leetcode.com/u/Devang-41/">
