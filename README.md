@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 - 🎓 Engineering Student at **Ramaiah Institute of Technology**
-- 🐍 Currently mastering Cpp and DSA.
+- 🐍 Currently mastering Cpp
 
 ---
 
